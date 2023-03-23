@@ -142,3 +142,7 @@ PackageBackups/
 
 # UWP builds
 /UWP/*
+Assets/ExampleAssets
+Assets/Samples
+Assets/XR
+Assets/XRI
